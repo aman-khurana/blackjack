@@ -4,3 +4,8 @@ Implementation of the game blackjack as described in Sutton & Barto book Example
 Two versions of the environment are implemented, one stochastic and other deterministic.
 
 We find the optimal policy for the environment using Q Learning, which is a model free, off policy tabular method to learn the action-state value function for an MDP.
+
+**Q Values Learnt**
+
+![Q Values](imgs/qValues.png)
+![Q Values1](imgs/qValues1.png)
